@@ -76,7 +76,7 @@ I build backend-focused, scalable web applications and AI-powered systems. My wo
 
 ## 📊 GitHub Statistics
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pran-bot&theme=dark" alt="GitHub Streak" width="400"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pranav-gawande1&theme=dark" alt="GitHub Streak" width="400"/>
 </div>
 
 ---
