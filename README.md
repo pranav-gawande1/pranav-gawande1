@@ -26,11 +26,11 @@ I build backend-focused, scalable web applications and AI-powered systems. My wo
 
 | Project | Description | Tech Stack | Repository |
 |---------|-------------|-----------|-----------|
-| **EasyFarm-A_Complete_Farming_Solution_Using_AI_ML** | AI-powered smart agriculture platform with crop recommendation, fertilizer suggestion, disease detection, chatbot support, and subsidy retrieval trained on real-world datasets | Python, ML, Flask/FastAPI, NLP | [View Repo](https://github.com/Pran-bot/EasyFarm-A_Complete_Farming_Solution_Using_AI_ML) |
-| **Pizza-Paradise-FastAPI-HTML** | Full-stack pizza ordering application combining REST APIs with server-rendered templates, evolving into a complete production-ready system | FastAPI, HTML, Jinja2, PostgreSQL | [View Repo](https://github.com/Pran-bot/Pizza-Paradise-FastAPI-HTML-) |
-| **Telegram-AI-Assistant** | AI-powered Telegram bot for automated messaging, spam detection, contextual response generation, and smart channel discovery | Python, Telegram API, NLP, ML | [View Repo](https://github.com/Pran-bot/Telegram-AI-Assistant) |
-| **AI Assignment Checker** | Intelligent grading and submission management system automating evaluation workflows for teachers and students | Python, NLP, FastAPI, ML | [View Repo](https://github.com/Pran-bot/AiAssigmentChecker) |
-
+| **Pizza Paradise** | MERN-based pizza ordering platform featuring dynamic menu management, secure authentication, cart & checkout system, order handling, and responsive user experience | React, Node.js, Express, MongoDB | [View Repo](https://github.com/pranav-gawande1/FastAPI) |
+| **EasyFarm-A_Complete_Farming_Solution_Using_AI_ML** | AI-powered smart agriculture platform with crop recommendation, fertilizer suggestion, disease detection, chatbot support, and subsidy retrieval trained on real-world datasets | Python, ML, Flask/FastAPI, NLP | [View Repo](https://github.com/pranav-gawande1/EasyFarm-A_Complete_Farming_Solution_Using_AI_ML) |
+| **Pizza-Paradise-FastAPI-HTML** | Full-stack pizza ordering application combining REST APIs with server-rendered templates, evolving into a complete production-ready system | FastAPI, HTML, Jinja2, PostgreSQL | [View Repo](https://github.com/pranav-gawande1/Pizza-Paradise-FastAPI-HTML-) |
+| **Telegram-AI-Assistant** | AI-powered Telegram bot for automated messaging, spam detection, contextual response generation, and smart channel discovery | Python, Telegram API, NLP, ML | [View Repo](https://github.com/pranav-gawande1/Telegram-AI-Assistant) |
+| **AI Assignment Checker** | Intelligent grading and submission management system automating evaluation workflows for teachers and students | Python, NLP, FastAPI, ML | [View Repo](https://github.com/pranav-gawande1/AiAssigmentChecker) |
 
 ---
 
