@@ -21,6 +21,20 @@
 
 I build backend-focused, scalable web applications and AI-powered systems. My work centers around designing clean architectures, developing efficient APIs, and solving real-world problems using practical system design principles.
 
+
+---
+## 🔥 Featured Projects
+
+| Project | Description | Tech Stack | Repository |
+|---------|-------------|-----------|-----------|
+| **Pizza Paradise** | MERN-based pizza ordering platform featuring dynamic menu management, secure authentication, cart & checkout system, order handling, and responsive user experience | React, Node.js, Express, MongoDB | [View Repo](https://github.com/pranav-gawande1/FastAPI) |
+| **Scientist-Engineer-Knowledge-Transfer-Graph** | AI-powered platform to identify research–patent gaps, analyze knowledge transfer between scientists and engineers, and evaluate research commercialization potential | TypeScript, FastAPI, Python, Pytorch, Supabse | [View Repo](https://github.com/pranav-gawande1/Scientist-Engineer-Knowledge-Transfer-Graph.git) |
+| **Ai_Powered_ResearchPaper_Management_System** | AI-powered research management platform enabling researchers and engineers to collaborate, identify research–patent gaps, and accelerate research-to-product workflows through roadmap generation, patent lag analysis, plagiarism detection, and AI content analysis | JavaScript, React, FastAPI, Supabase | [View Repo](https://github.com/pranav-gawande1/Ai_Powered_ResearchPaper_Management_System.git) |
+| **Skin_buddy** | AI-powered Telegram bot for automated messaging, spam detection, contextual response generation, and smart channel discovery | Dart, Express, Node, Supabase, Pytorch | [View Repo](https://github.com/pranav-gawande1/Skin_buddy.git) |
+| **AI Assignment Checker** | Intelligent grading and submission management system automating evaluation workflows for teachers and students | Python, NLP, FastAPI, ML | [View Repo](https://github.com/pranav-gawande1/AiAssigmentChecker) |
+
+---
+
 ## 💼 Core Competencies
 
 ### **Frontend Development**
